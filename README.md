@@ -1,8 +1,4 @@
-[![John Nolans's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnolan&count_private=true&theme=dark)](https://github.com/johnnolan/github-readme-stats)
-
----
-
-## Me!
+## Hia...
 
 👋 Hi, I’m [@johnnolan](https://github.com/johnnolan)
 
@@ -28,7 +24,6 @@
 - Site: [jbnolan.art](https://jbnolan.art/)
 - Repo: [https://github.com/johnnolan/johnnolan-art](https://github.com/johnnolan/johnnolan-art)
 
-
 ---
 
 ## My FoundryVTT Modules
@@ -47,3 +42,7 @@
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/johnnolan/fvtt-encounter-stats.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/johnnolan/fvtt-encounter-stats/context:javascript)
 - Site: [https://foundryvtt.com/packages/fvtt-encounter-stats](https://foundryvtt.com/packages/fvtt-encounter-stats)
 - Repo: [https://github.com/johnnolan/fvtt-encounter-stats](https://github.com/johnnolan/fvtt-encounter-stats)
+
+---
+
+[![John Nolans's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnolan&count_private=true&theme=dark)](https://github.com/johnnolan/github-readme-stats)
