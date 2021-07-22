@@ -12,24 +12,45 @@
 
 ---
 
-## My Personal Sites
+## Personal Sites
 
-|Personal Blog |JB Nolan Art |
-|:--- |:--- |
-|![eleventy](https://img.shields.io/badge/staticgen-eleventy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)|![Hugo](https://img.shields.io/badge/staticgen-Hugo-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)|
-|**Site**: [www.johnnolan.dev](https://www.johnnolan.dev/)|**Site**: [jbnolan.art](https://jbnolan.art/)|
-|**Repo**: [johnnolan/johnnolan.dev](https://github.com/johnnolan/johnnolan.dev)|**Repo**: [johnnolan/johnnolan-art](https://github.com/johnnolan/johnnolan-art)
+### Personal Blog
+
+![eleventy](https://img.shields.io/badge/staticgen-eleventy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+**Website**: [www.johnnolan.dev](https://www.johnnolan.dev/)
+
+**Repo**: [https://github.com/johnnolan/johnnolan.dev](https://github.com/johnnolan/johnnolan.dev)
+
+### JB Nolan Art
+
+![Hugo](https://img.shields.io/badge/staticgen-Hugo-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+**Website**: [jbnolan.art](https://jbnolan.art/)
+
+**Repo**: [https://github.com/johnnolan/johnnolan-art](https://github.com/johnnolan/johnnolan-art)
 
 ---
 
-## My FoundryVTT Modules
+## FoundryVTT Modules
 
-|Wild Magic Surge 5e |FVTT Encounter Stats |
-|:--- |:--- |
-|![Latest Release Download Count](https://img.shields.io/github/downloads/johnnolan/wild-magic-surge-5e/latest/module.zip)|![Latest Release Download Count](https://img.shields.io/github/downloads/johnnolan/fvtt-encounter-stats/latest/module.zip)|
-|[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/johnnolan/wild-magic-surge-5e.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/johnnolan/wild-magic-surge-5e/context:javascript)|[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/johnnolan/fvtt-encounter-stats.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/johnnolan/fvtt-encounter-stats/context:javascript)|
-|**Site**: [foundryvtt.com/packages/wild-magic-surge-5e](https://foundryvtt.com/packages/wild-magic-surge-5e)|**Site**: [foundryvtt.com/packages/fvtt-encounter-stats](https://foundryvtt.com/packages/fvtt-encounter-stats)|
-|**Repo**: [johnnolan/wild-magic-surge-5e](https://github.com/johnnolan/wild-magic-surge-5e)|**Repo**: [johnnolan/fvtt-encounter-stats](https://github.com/johnnolan/fvtt-encounter-stats)|
+### Wild Magic Surge 5e
+
+![Latest Release Download Count](https://img.shields.io/github/downloads/johnnolan/wild-magic-surge-5e/latest/module.zip)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/johnnolan/wild-magic-surge-5e.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/johnnolan/wild-magic-surge-5e/context:javascript)
+
+**Website**: [https://foundryvtt.com/packages/wild-magic-surge-5e](https://foundryvtt.com/packages/wild-magic-surge-5e)
+
+**Repo**: [https://github.com/johnnolan/wild-magic-surge-5e](https://github.com/johnnolan/wild-magic-surge-5e)
+
+### FVTT Encounter Stats
+
+![Latest Release Download Count](https://img.shields.io/github/downloads/johnnolan/fvtt-encounter-stats/latest/module.zip)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/johnnolan/fvtt-encounter-stats.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/johnnolan/fvtt-encounter-stats/context:javascript)
+
+**Website**: [https://foundryvtt.com/packages/fvtt-encounter-stats](https://foundryvtt.com/packages/fvtt-encounter-stats)
+
+**Repo**: [https://github.com/johnnolan/fvtt-encounter-stats](https://github.com/johnnolan/fvtt-encounter-stats)
 
 ---
 
