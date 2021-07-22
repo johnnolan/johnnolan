@@ -20,7 +20,7 @@
 
 **Website**: [www.johnnolan.dev](https://www.johnnolan.dev/)
 
-**Repo**: [https://github.com/johnnolan/johnnolan.dev](https://github.com/johnnolan/johnnolan.dev)
+**Repo**: [johnnolan/johnnolan.dev](https://github.com/johnnolan/johnnolan.dev)
 
 ### JB Nolan Art
 
@@ -28,7 +28,7 @@
 
 **Website**: [jbnolan.art](https://jbnolan.art/)
 
-**Repo**: [https://github.com/johnnolan/johnnolan-art](https://github.com/johnnolan/johnnolan-art)
+**Repo**: [johnnolan/johnnolan-art](https://github.com/johnnolan/johnnolan-art)
 
 ---
 
@@ -39,19 +39,19 @@
 ![Latest Release Download Count](https://img.shields.io/github/downloads/johnnolan/wild-magic-surge-5e/latest/module.zip)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/johnnolan/wild-magic-surge-5e.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/johnnolan/wild-magic-surge-5e/context:javascript)
 
-**Website**: [https://foundryvtt.com/packages/wild-magic-surge-5e](https://foundryvtt.com/packages/wild-magic-surge-5e)
+**Website**: [foundryvtt.com/packages/wild-magic-surge-5e](https://foundryvtt.com/packages/wild-magic-surge-5e)
 
-**Repo**: [https://github.com/johnnolan/wild-magic-surge-5e](https://github.com/johnnolan/wild-magic-surge-5e)
+**Repo**: [johnnolan/wild-magic-surge-5e](https://github.com/johnnolan/wild-magic-surge-5e)
 
 ### FVTT Encounter Stats
 
 ![Latest Release Download Count](https://img.shields.io/github/downloads/johnnolan/fvtt-encounter-stats/latest/module.zip)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/johnnolan/fvtt-encounter-stats.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/johnnolan/fvtt-encounter-stats/context:javascript)
 
-**Website**: [https://foundryvtt.com/packages/fvtt-encounter-stats](https://foundryvtt.com/packages/fvtt-encounter-stats)
+**Website**: [foundryvtt.com/packages/fvtt-encounter-stats](https://foundryvtt.com/packages/fvtt-encounter-stats)
 
-**Repo**: [https://github.com/johnnolan/fvtt-encounter-stats](https://github.com/johnnolan/fvtt-encounter-stats)
+**Repo**: [johnnolan/fvtt-encounter-stats](https://github.com/johnnolan/fvtt-encounter-stats)
 
 ---
 
-[![John Nolans's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnolan&count_private=true&theme=dark)](https://github.com/johnnolan/github-readme-stats)
+[![John Nolans's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnolan&count_private=true&theme=dark)](https://github.com/johnnolan/johnnolan)
