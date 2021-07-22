@@ -16,7 +16,7 @@
 
 ### Personal Blog
 
-![eleventy](https://img.shields.io/badge/staticgen-eleventy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Hugo](https://img.shields.io/badge/staticgen-Hugo-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 **Website**: [www.johnnolan.dev](https://www.johnnolan.dev/)
 
@@ -24,7 +24,7 @@
 
 ### JB Nolan Art
 
-![Hugo](https://img.shields.io/badge/staticgen-Hugo-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![eleventy](https://img.shields.io/badge/staticgen-eleventy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 **Website**: [jbnolan.art](https://jbnolan.art/)
 
