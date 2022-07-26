@@ -22,14 +22,6 @@
 
 **Repo**: [johnnolan/johnnolan.dev](https://github.com/johnnolan/johnnolan.dev)
 
-### JB Nolan Art
-
-![eleventy](https://img.shields.io/badge/staticgen-eleventy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-**Website**: [jbnolan.art](https://jbnolan.art/)
-
-**Repo**: [johnnolan/johnnolan-art](https://github.com/johnnolan/johnnolan-art)
-
 ---
 
 ## FoundryVTT Modules
