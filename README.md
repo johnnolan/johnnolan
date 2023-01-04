@@ -16,7 +16,7 @@
 
 ### Personal Blog
 
-![Hugo](https://img.shields.io/badge/staticgen-Hugo-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+[![eleventy](https://img.shields.io/badge/staticgen-eleventy-%23707070.svg?style=flat-square)](https://11ty.io)
 
 **Website**: [www.johnnolan.dev](https://www.johnnolan.dev/)
 
@@ -29,11 +29,21 @@
 ### Wild Magic Surge 5e
 
 ![Latest Release Download Count](https://img.shields.io/github/downloads/johnnolan/wild-magic-surge-5e/latest/module.zip)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/johnnolan/wild-magic-surge-5e.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/johnnolan/wild-magic-surge-5e/context:javascript)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=johnnolan_wild-magic-surge-5e&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=johnnolan_wild-magic-surge-5e)
 
 **Website**: [foundryvtt.com/packages/wild-magic-surge-5e](https://foundryvtt.com/packages/wild-magic-surge-5e)
 
 **Repo**: [johnnolan/wild-magic-surge-5e](https://github.com/johnnolan/wild-magic-surge-5e)
+
+
+### Encounter Stats
+
+![Latest Release Download Count](https://img.shields.io/github/downloads/johnnolan/encounter-stats/latest/module.zip)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=johnnolan_encounter-stats&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=johnnolan_encounter-stats)
+
+**Website**: [foundryvtt.com/packages/encounter-stats](https://foundryvtt.com/packages/encounter-stats)
+
+**Repo**: [johnnolan/encounter-stats](https://github.com/johnnolan/encounter-stats)
 
 ---
 
